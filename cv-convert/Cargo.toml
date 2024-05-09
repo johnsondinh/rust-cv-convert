@@ -1,5 +1,5 @@
 [package]
-name = 'cv-convert'
+name = 'cv-convert-fork'
 description = 'Type conversions among famous Rust computer vision libraries'
 version = '0.25.0'
 authors = ['jerry73204 <jerry73204@gmail.com>']
