@@ -30,10 +30,6 @@ mod element_type {
         const DEPTH: i32 = core_cv::CV_32S;
     }
 
-    impl OpenCvElement for f16 {
-        const DEPTH: i32 = core_cv::CV_16F;
-    }
-
     impl OpenCvElement for f32 {
         const DEPTH: i32 = core_cv::CV_32F;
     }
