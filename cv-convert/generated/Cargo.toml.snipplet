@@ -215,13 +215,6 @@ default-features = false
 features = ['calib3d']
 optional = true
 
-[dependencies.opencv_0-85]
-version = '0.85'
-package = 'opencv'
-default-features = false
-features = ['calib3d']
-optional = true
-
 [dependencies.opencv_0-92]
 version = '0.92'
 package = 'opencv'
